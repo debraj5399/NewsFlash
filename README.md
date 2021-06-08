@@ -1,0 +1,1 @@
+This is the third app which I made during my native android learning path. In this app I learnt how to use Recycler View and how to use chrome custom tabs. The next modifications over this app will be to share the news over any sharing platform and pull down to refresh option.
